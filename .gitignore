@@ -21,3 +21,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.idea
+*.iml
+target
+dependency-reduced-pom.xml
+*/.DS_store
+node_modules
+!/.idea/codeStyleSettings.xml
+.arclib/.phutil_module_cache
+tmp/
+logs/
